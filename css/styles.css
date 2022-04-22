@@ -1,0 +1,93 @@
+/**************** HTML TAGs Selectors ******************/
+body {
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Updock', cursive;
+  color: #072227;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #072227;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  color: #072227;
+}
+
+p {
+  font-family: 'Nunito', sans-serif;
+  color: #35858B;
+}
+
+/*********************** class selectors *******************/
+.bottom-container {
+  background-color: #072227;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  margin-right: 50%;
+}
+
+.btn {
+  color: #4FBDBA;
+}
+
+.footer-link {
+  color: #4FBDBA;
+}
+
+.middle-container {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.photo-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.photo-skill-disc {
+  clear: right;
+}
+
+.play-btn {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  margin-left: 400px;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #4FBDBA;
+}
+
+/********************* Element Selectors **********************/
